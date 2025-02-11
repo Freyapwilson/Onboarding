@@ -12,7 +12,7 @@ This guide has been crafted by all **past and current members of the team**. It'
 
 ### Our vision
 
-<!-- Our team's ethos is centred around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**. -->
+<!-- Our team's ethos is centred around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights** -->
 
 We rely on a lot on internal **communication** (about stuff more *or less* related to work :grin:), on our ability to keep on learning and **improving**, on a cool and collaborative **working environment**, and try to strive for the highest standards in terms of scientific quality and honesty. We are strongly committed to **open science** by sharing our code, documentation, data and expertise. After all, science is a collective enterprise.
 
@@ -253,3 +253,4 @@ We encourage you to explore and be integrated within the online scientific commu
 - [Karla Wall](https://github.com/KarlaWall)
 - [Maisie_Bennett](https://github.com/maisiebennett)
 - [Sam Marine](https://github.com/LebombJames)
+- [Freya Wilson](https://github.com/Freyapwilson)
